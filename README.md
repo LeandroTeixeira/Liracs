@@ -13,7 +13,7 @@ O objetivo do software era, acima de tudo, desenvolver uma ferramenta de acessib
 - Manipulação de áudio usando o pacote javax.sound
 
 ## [Demonstração de Utilização](https://www.youtube.com/watch?v=ENGiv5iqogE)
-![Main Page](/picture.png "Main Page")
+![Main Page](/Image.png "Main Page")
 
 Narrado por Ian Carlos Afonso da Silva
 
